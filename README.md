@@ -16,13 +16,23 @@ I am thankful to my instructors at RutgersCodingBootcamp, that they teach me so 
 ## How to run:
 
 
-You can run the application by opening the terminal in your MAC and type following:
+You can run the application by following below steps and running the commands in project root directory:
 
-NPM RUN START
 
-or
+1: Install npm packages
 
-NPM RUN DEVELOP
+npm install
+
+2: Develop and Run
+npm run develop
+
+If you want to start only backend server:
+
+npm run start
+
+If you want build project:
+
+npm run build
 
 
 ## ScreenShots
